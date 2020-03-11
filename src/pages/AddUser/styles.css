@@ -1,0 +1,13 @@
+main.userform {
+  background: #fff;
+  box-shadow: 0 0 14px rgb(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 30px 20px;
+}
+
+main.userform strong {
+  font-size: 16px;
+  text-align: center;
+  display: block;
+  color: #333
+}

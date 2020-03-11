@@ -1,0 +1,23 @@
+form .input-block input.error {
+  border-bottom: 1px solid red;
+  color: red;
+}
+
+.btn-cancel {
+  width: 100%;
+  border: 1px solid #246b91;;
+  margin-top: 30px;
+  border-radius: 2px;
+  padding: 15px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #246b91;
+  background: #fff;
+  cursor: pointer;
+  transition: background 0.5s;
+}
+
+.btn-cancel:hover {
+  background: #165272;
+  color: #fff;
+}
